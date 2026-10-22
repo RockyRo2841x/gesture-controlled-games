@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-22",
+  "originals": [
+    {
+      "repository_path": "archive/target_original.py",
+      "original_filename": "Gesture_controlled_game.py",
+      "bytes": 2762,
+      "sha256": "6101a8c50f23aa7991a9563df7def0ee542391bfa6efc7944e8382d6cafb975e"
+    },
+    {
+      "repository_path": "archive/drone_60s_original.py",
+      "original_filename": "Dronce_obstacle_course.py",
+      "bytes": 4281,
+      "sha256": "3e695c4ffd7ea4be5da1a8c32d6c7ef75ff7b63a95d8fe85991ecdd619a99b30"
+    },
+    {
+      "repository_path": "archive/drone_10s_draft.py",
+      "original_filename": "yo.py",
+      "bytes": 3733,
+      "sha256": "17aab480ef6057c52e01b77412cbdb54c730417128f03d2f4c8dae0cb4b18062"
+    }
+  ],
+  "submission_notes": [
+    "The RMI drone submission and archived 10-second draft have equivalent Python syntax trees, with comment/formatting differences.",
+    "The RMI target submission adds instruction text to the same game logic.",
+    "The empty d.py practice file is omitted."
+  ]
+}
